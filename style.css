@@ -15,7 +15,7 @@ body{
 
 .image-container-manhattan{
     height: 500px;
-    background-image: url('./img/manhattan.jpg');
+    background-image: url('./manhattan.jpg');
     background-size: cover;
 }
 
